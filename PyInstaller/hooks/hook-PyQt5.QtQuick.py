@@ -26,7 +26,7 @@ from PyInstaller.utils.hooks import (
 dirs = ['Qt',
         #'QtAudioEngine',
         #'QtGraphicalEffects',
-        #'QtMultiMedia',
+        'QtMultiMedia',
         'QtQml',
         'QtQuick',
         'QtQuick.2',
